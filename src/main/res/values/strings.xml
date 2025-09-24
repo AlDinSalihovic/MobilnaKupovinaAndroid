@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Quick Shop</string>
+
+    <string-array name="Nazivi">
+
+        <item>Addidas</item>
+        <item>Under Armour</item>
+        <item>New Ballance</item>
+        <item>Fila</item>
+        <item>La Coste</item>
+        <item>Nike</item>
+        <item>Sketchers</item>
+        <item>US. Pollo</item>
+
+    </string-array>
+
+    <string-array name="Cijene">
+
+        <item>200$</item>
+        <item>250$</item>
+        <item>150$</item>
+        <item>180$</item>
+        <item>320$</item>
+        <item>120$</item>
+        <item>280$</item>
+        <item>140$</item>
+
+    </string-array>
+</resources>
